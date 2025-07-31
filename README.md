@@ -101,7 +101,7 @@ Each model was evaluated using:
 ## 🤝 Author
 
 - 👤 **Ammar Kaleem**
-- 📬 Email: *[your email here if public]*
+- 📬 Email: *ammarkaleemofficial@gmail.com*
 - 💼 BSAI Student | AI Enthusiast
 
 ---
